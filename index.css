@@ -1,0 +1,49 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    height: 12vh;
+    background-color: blue;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.logo {
+    height: 100%;
+    
+}
+
+.list-nav {
+    color: white;
+    display: flex;
+    gap: 20px;
+    text-decoration: none;
+}
+
+.list-nav li {
+    margin: 0px 20px;
+    list-style: none;
+    display: flex;
+    text-decoration: none;
+}
+
+.a:hover {
+    color: aqua;
+
+}
+
+.carrito {
+    color: white;
+}
+
+.carrito:hover {
+    color: aqua;
+}
+.a {
+    text-decoration: none;
+    color: white;
+    text-shadow: 0 0 0.2em #8F7, 0 0 0.2em #F87
+}
