@@ -1,5 +1,11 @@
 Hamburguesería Gourmet
 Sin una buena materia prima no hay cocina de calidad
 
-En Pulpo Burger consideramos que una selección de las mejores materias primas en cocina es, un factor determinante.  Ingredientes frescos y productos de temporada y proximidad, que siempre son los mejores para la preparación de sabrosas y ricas Hamburguesas, además de ser más saludables.
-Desde el amasado del Pan hasta el último detalle del emplatado final, son realizados por nuestras manos.
+En Pulpo Burger consideramos que una selección de las mejores materias primas en cocina es un factor determinante para la cocina de Calidad.  
+
+Somos un Grupo de Cocineros que se han Formado en el IAG (Es el Instituto Argentino de Gastronomía). Que se ha puesto como objetivo Principal brindar una nueva experiencia en el Rubro del Fast Food . utilizando ingredientes frescos, productos de temporada y proximidad, Desde el amasado del Pan hasta el último detalle del emplatado final, son realizados por nuestras manos.. para que ademas de ser sabrosas y ricas, puedan sentir desde el primer mordisco hasta el último una explosion de sabores.
+
+
+
+  font-family:'Neon.ttf' ;
+    src: url(./Neon.ttf);
