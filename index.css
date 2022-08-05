@@ -85,7 +85,8 @@ background-color: black;
 .subtitulo{
     padding-left: 3%;
     background-color: black;
-   color: rgb(252, 255, 66); text-shadow: rgb(255, 255, 255) 0.1em 0.1em 0.2em
+   color: rgb(252, 255, 66); text-shadow: rgb(255, 255, 255) 0.1em 0.1em 0.2em;
+   font-size: small;
 
    
 
@@ -93,7 +94,7 @@ background-color: black;
 }
 .container-inicio{
     width: 40%;
-    font-size: 1.5em;
+    font-size: small;
     font-family: 'Monoton', cursive;
     text-shadow: 0 0 0.2em rgb(255, 255, 255);
     text-align: center;
