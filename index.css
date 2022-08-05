@@ -101,7 +101,8 @@ background-color: black;
 }
 .boton-hambur
 {
-    width: 70%;
+    width: 60%;
+    height: 30px;
     background-color: rgb(78, 228, 208);
     border-style: none;
     border-radius: 20px;
@@ -109,5 +110,6 @@ background-color: black;
     margin-top: 10px;
     color: rgb(0, 0, 0);
     font-family: 'Libre Barcode 39 Text', cursive;
+    font-size: large;
    
 }
