@@ -94,8 +94,8 @@ background-color: black;
 }
 .container-inicio{
     width: 40%;
-    font-size: small;
-    font-family: 'Monoton', cursive;
+    font-size: 18px;
+    font-family: 'Libre Barcode 39 Text', cursive;
     text-shadow: 0 0 0.2em rgb(255, 255, 255);
     text-align: center;
    
@@ -107,7 +107,7 @@ background-color: black;
     background-color: rgb(78, 228, 208);
     border-style: none;
     border-radius: 20px;
-     font-weight: 800;
+     font-weight: 600;
     margin-top: 10px;
     color: rgb(0, 0, 0);
     font-family: 'Libre Barcode 39 Text', cursive;
