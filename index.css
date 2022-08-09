@@ -3,25 +3,27 @@
     margin: 0;
 }
 
+
 .header {
     height: 200px;
     background-color: black;
     display: flex;
-     justify-content: space-around;
+    justify-content: space-around;
     align-items: center;
     font-family: 'Water Brush', cursive;
-   
-    }
 
-.fondoimagen{
+}
+
+@media all (min-width: 200px) and (max-width: 1490px)
+.fondoimagen {
     width: 100%;
     height: 100%;
-    align-items:baseline;
-  }
+    align-items: baseline;
+}
 
 .logo {
     height: 200px;
-    
+
 }
 
 .list-nav {
@@ -29,13 +31,12 @@
     display: flex;
     gap: 20px;
     text-decoration: none;
-    
-  
-   }
+
+}
 
 .list-nav li {
-   margin: 0px 20px;
-      list-style: none;
+    margin: 0px 20px;
+    list-style: none;
     display: flex;
     text-decoration: none;
     ;
@@ -53,94 +54,106 @@
 .carrito:hover {
     color: aqua;
 }
+
 .a {
     text-decoration: none;
     color: white;
     text-shadow: 0 0 0.2em #8F7, 0 0 0.2em #F87
 }
-.FONDOHAMBURGUESA{
+
+.FONDOHAMBURGUESA {
     display: flex;
     justify-content: center;
     align-items: center;
     width: 60%;
- }
- .gif{
+}
+
+.gif {
     background-color: black;
     color: black;
-     display: flex;
+    display: flex;
     justify-content: center;
     align-items: center;
     width: 100%;
- }  
- .section-inicio{
-width: 100%;
-display: flex;
-justify-content: center;
-align-items: center;
-background-color: black;
- }
+}
+
+.section-inicio {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}
 
 @font-face {
-    font-family:'Neon.ttf' ;
+    font-family: 'Neon.ttf';
     src: url(./Neon.ttf);
 }
-.subtitulo{
+
+.subtitulo {
     padding-left: 3%;
     background-color: black;
-   color: rgb(240, 240, 231); text-shadow: rgb(62, 200, 255) 0.1em 0.1em 0.2em;
-   font-size: 35px;
-   font-family: "Water Brush", cursive
-   
-
-   
-
-     
+    color: rgb(240, 240, 231);
+    text-shadow: rgb(62, 200, 255) 0.1em 0.1em 0.2em;
+    font-size: 35px;
+    font-family: 'Shadows Into Light', cursive;
 }
-.container-inicio{
+
+.container-inicio {
     width: 40%;
     font-size: 60px;
-   font-family: 'Neonderthaw', cursive;
+    font-family: 'Neonderthaw', cursive;
     text-shadow: 0 0 0.2em rgb(255, 255, 255);
     text-align: center;
-   
+
 }
-.boton-hambur
-{
+
+.boton-hambur {
     width: 60%;
     height: 30px;
     background-color: rgb(78, 228, 208);
     border-style: none;
     border-radius: 20px;
-     font-weight: 300;
+    font-weight: 300;
     margin-top: 10px;
     color: rgb(245, 238, 238);
-    font-family: 'Water Brush', cursive;
+    font-family: 'Shadows Into Light', cursive;
     font-size: 20px;
     text-shadow: 0 0 0.4em rgb(7, 7, 6);
 }
-.amasando{
+
+.amasando {
+height: 50%;
+width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start
+}
+
+.section-nosotros {
+    width: 100%;
+    height: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 50%;
-    height: 100%;
-    
+    background-color: #000000;
+    color: aqua;
+    text-align: center;
+
 }
-.section-nosotros{
-        width: 100%;
-        height: 100%;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        background-color: #021613;
-        color: aqua;
-        text-align: center;
-       
-}
-.nosotros{
-    width: 40%;
-    font-size: 30px;
+
+.nosotros {
+    font-size: 15px;
     color: rgb(245, 238, 238);
-    font-family: 'Water Brush', cursive;
+    font-family: 'Shadows Into Light', cursive;
     text-shadow: rgb(62, 200, 255) 0.1em 0.1em 0.2em;
+
+}
+
+.gif2 {
+    background-color: black;
+    color: black;
+       justify-content: center;
+    align-items: center;
+    width: 200px;
 }
